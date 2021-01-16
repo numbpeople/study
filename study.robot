@@ -18,5 +18,4 @@ random
     log    ${newname}
 
 random.randit
-    ${num}    Evaluate    random.randint(1,10)    random
-    log    ${num}
+    ${num}    Evaluate    random.randint(1,10)    random    
