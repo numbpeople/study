@@ -1,0 +1,21 @@
+{
+  "id": "2c2f7474-258c-422a-b11e-4cf4a086a971",
+  "version": "2.0",
+  "name": "http://webim-vue.easemob.com/login",
+  "url": "http://webim-vue.easemob.com",
+  "tests": [{
+    "id": "80755a27-9d7f-4920-87f9-905708ac7668",
+    "name": "点击注册",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "9919e579-3e3a-45c3-9144-461a595a275b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://webim-vue.easemob.com/"],
+  "plugins": []
+}
