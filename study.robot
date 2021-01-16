@@ -20,4 +20,4 @@ random
 random.randit
     ${num}    Evaluate    random.randint(1,10)    random    
     
-    ${LOG_FILE}    ${LOG_FILE}
+    ${LOG_FILE}    ${LOG_FILE}    ${LOG_FILE}
