@@ -1,2 +1,2 @@
 # study
-联系samrtgit使用
+练习samrtgit使用
