@@ -1,7 +1,7 @@
 *** Test Cases ***
 return form keyword
     ${a}    Set Variable    abc
-    Comment    Run Keyword If    "${a}" == "abc"    log    1    #如果条件为true运行log
+    Comment    Run Keyword If    "${a}" == "abc"    log    2    #如果条件为true运行log
     Comment    Run Keyword And Return If    "${a}" == "abc"    log    abc
     Return From Keyword If    "${a}" == "abc"    ${a}
     comment    ${b}    Return From Keyword If    "${a}" == "abc"    bc
